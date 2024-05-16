@@ -45,4 +45,4 @@ QR Coder is a Python program designed for easily creating [Quick Response codes]
 ![J57GJO7.png](https://iili.io/J57GJO7.png)
 ## License
 
-This project is licensed under the [MIT License](../../Downloads/QR-Coder-main/LICENSE).
+This project is licensed under the [MIT License](LICENSE).
